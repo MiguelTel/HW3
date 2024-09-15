@@ -97,3 +97,10 @@ Example: Java applications can run on any device equipped with a JVM, reducing p
 Interoperability: Kotlin was designed to interoperate fully with Java, allowing developers to use both languages within the same project.
 
 Example: Android development can mix Java and Kotlin code seamlessly.
+## Unniversal Programming Language
+From my research it seems that each programming language abstracts different features that fit's the needs of it user's. It is very unlikely that a unniversal programming language will come about. Although their are talks of some new programming languages replacing legacy languages, no one language can fit the needs of every developer. Even the very popular python programming language can't offer the low level abstraction of memory management that c or c++ offers. It would be quite difficult to learn a single language with so many features. 
+## Different Languages
+With the needs of developers and engineers changing new languages like Go and Rust, which offer better concurrency and safety features have emerged to fill those needs. 
+It can be quite costly to continuously update a language without running into conflicts and bugs. Having different languages allows for developers to fit their needs easier.
+
+
