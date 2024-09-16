@@ -2,6 +2,11 @@
 
 **Questions:** Is there a programming language preference in industry fields that computer scientists have created? How has the needs of developers or engineers been reflected by the creation of new programming languages? Will their ever be a unniversal programming language or protocol that will fill most of if not all the needs of everyone? Why are there different programming languages in the first place and not a language that has been carefully updated with features? 
 
+## Revelant Information
+1. [Bell labs](https://en.wikipedia.org/wiki/Bell_Labs)
+2. [Memory Management](https://en.wikipedia.org/wiki/Memory_management)
+3. [Programming Languages](https://en.wikipedia.org/wiki/Programming_language)
+
 ## References
 MDN Web Docs: [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
@@ -53,7 +58,8 @@ Data Science and Machine Learning:
 Systems Programming:
 
 **C and C++:** Used for operating systems, game development, and performance-critical applications. C was developed by Dennis Ritchie, and C++ by Bjarne Stroustrup, both computer scientists.
-Mobile Development:
+
+**Mobile Development:**
 
 **Swift:** Used for iOS app development. Created by Apple engineers, including Chris Lattner, a computer scientist.
 Kotlin: Preferred for Android development. Developed by JetBrains programmers, including Dmitry Jemerov and Andrey Breslav.
@@ -103,4 +109,7 @@ From my research it seems that each programming language abstracts different fea
 With the needs of developers and engineers changing new languages like Go and Rust, which offer better concurrency and safety features have emerged to fill those needs. 
 It can be quite costly to continuously update a language without running into conflicts and bugs. Having different languages allows for developers to fit their needs easier.
 
+## Questions asked ChatGPT
+**Is there a programming language preference in industry fields that computer scientists have created? How has the needs of developers or engineers been reflected by the creation of new programming languages?**
 
+**Will their ever be a unniversal programming language or protocol that will fill most of if not all the needs of everyone?**
